@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/lalitver10/jenkins-pipeline/issues"
   },
-  "homepage": "https://github.com/lalitver10/jenkins-pipeline#readme"
+  "homepage": "https://github.com/lalitver10/jenkins-pipeline#readme",
+  "dependencies": {
+    "clear": "^0.1.0",
+    "express": "^4.17.1"
+  }
 }
